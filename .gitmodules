@@ -1,0 +1,6 @@
+[submodule "plugins/vi3m"]
+	path = plugins/vi3m
+	url = https://github.com/nejni-marji/dynami3-vi3m
+[submodule "plugins/vars"]
+	path = plugins/vars
+	url = https://github.com/nejni-marji/dynami3-vars
